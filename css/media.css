@@ -1,0 +1,377 @@
+@media (max-width: 1580px) {
+    .menu-btn {
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+    .menu-btn {
+        display: block;
+    }
+    .nav-right ul{
+        display: none;
+    }
+    /* About section   */
+    .about{
+        display: block;
+    }
+    .about-left{
+        width: 100%;
+    }
+    .about-right{
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    /*    My Skills*/
+    .skills{
+        padding-bottom: 100px;
+    }
+    .skills-content{
+        display: block;
+    }
+    .skills-content-left{
+        width: 100%;
+    }
+    .skills-content-right{
+        width: 100%;
+    }
+    /* services section    */
+.services{
+    padding-bottom: 100px;
+}
+    .content {
+        padding-top: 0;
+    }
+    .form-content {
+        width: 90%;
+        margin-top: 60px;
+    }
+    .form input{
+        width: 390px;
+    }
+    .form textarea {
+        width: 390px;
+    }
+
+}
+
+@media (max-width: 375px) {
+    .header {
+        padding: 10px;
+    }
+    .menu-btni i {
+        font-size: 28px;
+    }
+    .services-content {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .row {
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+
+
+    }
+    .global-title h1 {
+        font-size: 50px;
+    }
+    .content {
+        padding-top: 0;
+    }
+    .form-content {
+        width: 90%;
+        margin-top: 60px;
+    }
+    .form input{
+        width: 290px;
+    }
+    .form textarea {
+        width: 290px;
+    }
+
+
+}
+
+@media (max-width: 350px) {
+    .menu-btn {
+        display: block;
+    }
+    .nav-right ul{
+        display: none;
+    }
+    /* About section   */
+    .about{
+        display: block;
+    }
+    .about-left{
+        width: 100%;
+    }
+    .about-right{
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    /*    My Skills*/
+    .skills{
+        padding-bottom: 100px;
+    }
+    .skills-content{
+        display: block;
+    }
+    .skills-content-left{
+        width: 100%;
+    }
+    .skills-content-right{
+        width: 100%;
+    }
+    /* services section    */
+    .services{
+        padding-bottom: 100px;
+    }
+    .content {
+        padding-top: 0;
+    }
+    .form-content {
+        width: 80%;
+        margin-top: 60px;
+    }
+    .form input{
+        width: 243px;
+    }
+    .form textarea {
+        width: 251px;
+    }
+
+}
+
+@media (max-width: 400px) {
+    .menu-btn {
+        display: block;
+    }
+    .nav-right ul{
+        display: none;
+    }
+    /* About section   */
+    .about{
+        display: block;
+    }
+    .about-left{
+        width: 100%;
+    }
+    .about-right{
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    /*    My Skills*/
+    .skills{
+        padding-bottom: 100px;
+    }
+    .skills-content{
+        display: block;
+    }
+    .skills-content-left{
+        width: 100%;
+    }
+    .skills-content-right{
+        width: 100%;
+    }
+    /* services section    */
+    .services{
+        padding-bottom: 100px;
+    }
+    .content {
+        padding-top: 0;
+    }
+    .form-content {
+        width: 80%;
+        margin-top: 60px;
+    }
+    .form input{
+        width: 243px;
+    }
+    .form textarea {
+        width: 251px;
+    }
+    .services-content{
+        flex-direction: column;
+    }
+
+}
+
+@media (max-width: 450px) {
+    .menu-btn {
+        display: block;
+    }
+    .nav-right ul{
+        display: none;
+    }
+    /* About section   */
+    .about{
+        display: block;
+    }
+    .about-left{
+        width: 100%;
+    }
+    .about-right{
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    /*    My Skills*/
+    .skills{
+        padding-bottom: 100px;
+    }
+    .skills-content{
+        display: block;
+    }
+    .skills-content-left{
+        width: 100%;
+    }
+    .skills-content-right{
+        width: 100%;
+    }
+    /* services section    */
+    .services{
+        padding-bottom: 100px;
+    }
+    .content {
+        padding-top: 0;
+    }
+    .form-content {
+        width: 80%;
+        margin-top: 60px;
+    }
+    .form input{
+        width: 243px;
+    }
+    .form textarea {
+        width: 251px;
+    }
+.row{
+    flex-direction: column;
+    padding-bottom: 21px;
+}
+}
+
+@media (max-width: 550px) {
+    .menu-btn {
+        display: block;
+    }
+    .nav-right ul{
+        display: none;
+    }
+    /* About section   */
+    .about{
+        display: block;
+    }
+    .about-left{
+        width: 100%;
+    }
+    .about-right{
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    /*    My Skills*/
+    .skills{
+        padding-bottom: 100px;
+    }
+    .skills-content{
+        display: block;
+    }
+    .skills-content-left{
+        width: 100%;
+    }
+    .skills-content-right{
+        width: 100%;
+    }
+    /* services section    */
+    .services{
+        padding-bottom: 100px;
+    }
+    .content {
+        padding-top: 0;
+    }
+    .form-content {
+        width: 80%;
+        margin-top: 42px;
+        border-radius: 35px;
+    }
+    .form input{
+        width: 243px;
+    }
+    .form textarea {
+        width: 251px;
+    }
+.row{
+    flex-direction: column;
+    padding-bottom: 0px;
+}
+}
+
+@media (max-width: 630px) {
+    .menu-btn {
+        display: block;
+    }
+    .nav-right ul{
+        display: none;
+    }
+    /* About section   */
+    .about{
+        display: block;
+    }
+    .about-left{
+        width: 100%;
+    }
+    .about-right{
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    /*    My Skills*/
+    .skills{
+        padding-bottom: 100px;
+    }
+    .skills-content{
+        display: block;
+    }
+    .skills-content-left{
+        width: 100%;
+    }
+    .skills-content-right{
+        width: 100%;
+    }
+    /* services section    */
+    .services{
+        padding-bottom: 100px;
+    }
+    .content {
+        padding-top: 0;
+    }
+    .form-content {
+        width: 80%;
+        margin-top: 42px;
+        border-radius: 35px;
+    }
+    .form input{
+        width: 243px;
+    }
+    .form textarea {
+        width: 251px;
+    }
+    .row{
+        flex-direction: column;
+        padding-bottom: 0px;
+    }
+    .card{
+        width: 392px;
+    }
+    .services-content{
+        flex-direction: column;
+    }
+}
